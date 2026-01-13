@@ -135,11 +135,13 @@
 
 |대회 종류|자격|
 |:--:|:--|
-|학교, 동아리|[출제자] <br> BOJ 1,000문제 이상 해결 <br> Codeforces 레이팅 1,600 이상 <br> Atcoder 레이팅 1,200 이상 <br> ICPC 리저널 본선 30등 이상 <br> <br> [검수자] <br> BOJ 2,000문제 이상 해결 <br> Codeforces 레이팅 1,900 이상 <br> Atcoder 레이팅 1,600 이상 <br> ICPC 리저널 본선 20등 이상|
-[TODO] 작성
+|학교, 동아리|[주최자] <br> 다른 BOJ 대회 운영진 경험 1회 이상이고 아래 조건 중 1개 이상 만족<br> BOJ 1,000문제 이상 해결 <br> Codeforces 레이팅 1,600 이상 <br> Atcoder 레이팅 1,200 이상 <br> ICPC 리저널 본선 30등 이상 <br> <br> [출제자] <br> 아래 조건 중 1개 이상 만족<br> BOJ 1,000문제 이상 해결 <br> Codeforces 레이팅 1,600 이상 <br> Atcoder 레이팅 1,200 이상 <br> ICPC 리저널 본선 30등 이상 <br> <br> [검수자] <br> 아래 조건 중 1개 이상 만족 <br> BOJ 2,000문제 이상 해결 <br> Codeforces 레이팅 1,900 이상 <br> Atcoder 레이팅 1,600 이상 <br> ICPC 리저널 본선 20등 이상|
+|개인, 단체|[주최자] <br> 다른 BOJ 대회 운영진 경험 1회 이상이고 아래 조건 중 1개 이상 만족<br> BOJ 4,000문제 이상 해결 <br> Codeforces 레이팅 2,200 이상 <br> Atcoder 레이팅 2,000 이상 <br> ICPC 리저널 본선 10등 이상 <br> <br>[출제자] <br> BOJ 4,000문제 이상 해결 <br> Codeforces 레이팅 2,200 이상 <br> Atcoder 레이팅 2,000 이상 <br> ICPC 리저널 본선 10등 이상 <br> <br> [검수자] <br> BOJ 2,000문제 이상 해결 <br> Codeforces 레이팅 1,900 이상 <br> Atcoder 레이팅 1,600 이상 <br> ICPC 리저널 본선 20등 이상|
+- 해당 사항은 변동될 수 있으므로 [여기](https://help.acmicpc.net/contest/open) 및 [여기](https://help.acmicpc.net/problem/add)를 참조하시기 바랍니다.
 
 ## 출제 및 검수
-- 
+- [여기](https://github.com/haruharo101/Programming_Contest_Hosting_Guide/blob/main/problem_setting.md) 를 참조하세요.
+
 ## 굿즈 제작
 - 굿즈의 경우 준비 기간을 널널하게 잡아야 합니다. (최소 3주~1달)
 - 굿즈를 제작할 때에는 한 업체에만 견적을 잡지 말고 여러 업체에 견적을 의뢰해서 품질이 좋고 가격이 싼 업체에 의뢰하는 것이 좋습니다.
