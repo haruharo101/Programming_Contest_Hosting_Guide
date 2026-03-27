@@ -1,0 +1,7 @@
+site_name: Programming Contest Hosting Guide
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
