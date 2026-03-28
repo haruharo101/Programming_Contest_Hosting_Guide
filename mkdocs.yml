@@ -1,4 +1,4 @@
-site_name: Programming Contest Hosting Guide (v 0a.003)
+site_name: Programming Contest Hosting Guide (v 0a.004)
 
 theme: readthedocs
 
@@ -13,6 +13,12 @@ nav:
   
   - 대회 종료 :
     - 대회 종료 : contest_end.md
+    
+  - 업데이트 내역 :
+    - 업데이트 내역 : updatelog.md
+    
+  - 도움 주신 분들 :
+    - 도움 주신 분들 : credits.md
 
 extra_css:
   - stylesheets/extra.css
