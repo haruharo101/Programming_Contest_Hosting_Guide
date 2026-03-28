@@ -1,4 +1,4 @@
-site_name: Programming Contest Hosting Guide (v 0a.004)
+site_name: Programming Contest Hosting Guide (v 0a.005)
 
 theme: readthedocs
 
@@ -26,6 +26,7 @@ extra_css:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - attr_list
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
