@@ -1,5 +1,5 @@
 # Credits
-- [wapas](https://www.acmicpc.net/user/wapas)
+- [wapas](https://www.acmicpc.net/user/wapas), [aerae](https://www.acmicpc.net/user/aerae), [hjkim9911](https://www.acmicpc.net/user/hjkim9911)
 	- 알고리즘 대회 개최 메뉴얼 제공
 	
 - [kidw0124](https://www.acmicpc.net/user/kidw0124)
