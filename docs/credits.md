@@ -13,3 +13,6 @@
 	
 - [dbrua1222](https://www.acmicpc.net/user/dbrua1222)
 	- `2024 shake!` 스태프 가이드 제공
+	
+- [mathtw1030](https://www.acmicpc.net/user/mathtw1030)
+	- QR코드 생성 관련 조언
