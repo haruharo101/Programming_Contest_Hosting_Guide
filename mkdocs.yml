@@ -4,14 +4,21 @@ theme: readthedocs
 
 nav:
   - 메인 : index.md
-  - 대회 준비 :
+  - 대회 준비사항 (general) :
     - 대회 기반 준비 : preparation.md
     - 대회 문제 세팅 및 검수 : problem_setting.md
+  
+  - Online Judge별 준비사항 :
+    - CMS : OJs/cms.md
+    - Coduck : OJs/coduck.md
+    - DOMjudge : OJs/domjudge.md
+    - JUNGOL : OJs/jungol.md
+    - Project PS : OJs/projectps.md
     
-  - 대회 중 :
+  - 대회 중 (general) :
     - 대회 현장 : during_contest.md
   
-  - 대회 종료 :
+  - 대회 종료 (general) :
     - 대회 종료 : contest_end.md
     
   - 업데이트 내역 :
@@ -33,4 +40,4 @@ extra_javascript:
   
 extra:
   version:
-    v 0a.010
+    v 0a.011
